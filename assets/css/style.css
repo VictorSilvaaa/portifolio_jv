@@ -122,3 +122,8 @@ body{
         align-items: center;
     }
 }
+@media (max-width:480px){
+    .header__links{
+        gap: 1rem;
+    }
+}
